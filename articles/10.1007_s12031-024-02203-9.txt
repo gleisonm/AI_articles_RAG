@@ -1,0 +1,12 @@
+Title: A Prognostic Methylation-Driven Two-Gene Signature in Medulloblastoma.
+Journal: Journal of molecular neuroscience : MN
+Publication Date: 2024-04-25
+Authors:
+  - Gustavo Lovatto Michaelsen
+  - Lívia Dos Reis Edinger da Silva
+  - Douglas Silva de Lima
+  - Mariane da Cunha Jaeger
+  - André Tesainer Brunetto
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Marialva Sinigaglia
+Abstract: Medulloblastoma (MB) is one of the most common pediatric brain tumors and it is estimated that one-third of patients will not achieve long-term survival. Conventional prognostic parameters have limited and unreliable correlations with MB outcome, presenting a major challenge for patients' clinical improvement. Acknowledging this issue, our aim was to build a gene signature and evaluate its potential as a new prognostic model for patients with the disease. In this study, we used six datasets totaling 1679 samples including RNA gene expression and DNA methylation data from primary MB as well as control samples from healthy cerebellum. We identified methylation-driven genes (MDGs) in MB, genes whose expression is correlated with their methylation. We employed LASSO regression, incorporating the MDGs as a parameter to develop the prognostic model. Through this approach, we derived a two-gene signature (GS-2) of candidate prognostic biomarkers for MB (CEMIP and NCBP3). Using a risk score model, we confirmed the GS-2 impact on overall survival (OS) with Kaplan-Meier analysis. We evaluated its robustness and accuracy with receiver operating characteristic curves predicting OS at 1, 3, and 5 years in multiple independent datasets. The GS-2 showed highly significant results as an independent prognostic biomarker compared to traditional MB markers. The methylation-regulated GS-2 risk score model can effectively classify patients with MB into high and low-risk, reinforcing the importance of this epigenetic modification in the disease. Such genes stand out as promising prognostic biomarkers with potential application for MB treatment.

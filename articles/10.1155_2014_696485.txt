@@ -1,0 +1,10 @@
+Title: Differential evolutionary constraints in the evolution of chemoreceptors: a murine and human case study.
+Journal: TheScientificWorldJournal
+Publication Date: 2014-03-04
+Authors:
+  - Ricardo D'Oliveira Albanus
+  - Rodrigo Juliani Siqueira Dalmolin
+  - José Luiz Rybarczyk-Filho
+  - Mauro Antônio Alves Castro
+  - José Cláudio Fonseca Moreira
+Abstract: Chemoreception is among the most important sensory modalities in animals. Organisms use the ability to perceive chemical compounds in all major ecological activities. Recent studies have allowed the characterization of chemoreceptor gene families. These genes present strikingly high variability in copy numbers and pseudogenization degrees among different species, but the mechanisms underlying their evolution are not fully understood. We have analyzed the functional networks of these genes, their orthologs distribution, and performed phylogenetic analyses in order to investigate their evolutionary dynamics. We have modeled the chemosensory networks and compared the evolutionary constraints of their genes in Mus musculus, Homo sapiens, and Rattus norvegicus. We have observed significant differences regarding the constraints on the orthologous groups and network topologies of chemoreceptors and signal transduction machinery. Our findings suggest that chemosensory receptor genes are less constrained than their signal transducing machinery, resulting in greater receptor diversity and conservation of information processing pathways. More importantly, we have observed significant differences among the receptors themselves, suggesting that olfactory and bitter taste receptors are more conserved than vomeronasal receptors.

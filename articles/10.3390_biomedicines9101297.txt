@@ -1,0 +1,11 @@
+Title: Reverse Engineering of the Pediatric Sepsis Regulatory Network and Identification of Master Regulators.
+Journal: Biomedicines
+Publication Date: 2021-10-24
+Authors:
+  - Raffael Azevedo de Carvalho Oliveira
+  - Danilo Oliveira Imparato
+  - Vítor Gabriel Saldanha Fernandes
+  - João Vitor Ferreira Cavalcante
+  - Ricardo D'Oliveira Albanus
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: Sepsis remains a leading cause of death in ICUs all over the world, with pediatric sepsis accounting for a high percentage of mortality in pediatric ICUs. Its complexity makes it difficult to establish a consensus on genetic biomarkers and therapeutic targets. A promising strategy is to investigate the regulatory mechanisms involved in sepsis progression, but there are few studies regarding gene regulation in sepsis. This work aimed to reconstruct the sepsis regulatory network and identify transcription factors (TFs) driving transcriptional states, which we refer to here as master regulators. We used public gene expression datasets to infer the co-expression network associated with sepsis in a retrospective study. We identified a set of 15 TFs as potential master regulators of pediatric sepsis, which were divided into two main clusters. The first cluster corresponded to TFs with decreased activity in pediatric sepsis, and 

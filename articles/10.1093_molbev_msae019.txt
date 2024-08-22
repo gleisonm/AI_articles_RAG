@@ -1,0 +1,13 @@
+Title: Bridge: A New Algorithm for Rooting Orthologous Genes in Large-Scale Evolutionary Analyses.
+Journal: Molecular biology and evolution
+Publication Date: 2024-02-02
+Authors:
+  - Leonardo R S Campos
+  - Sheyla Trefflich
+  - Diego A A Morais
+  - Danilo O Imparato
+  - Vinicius S Chagas
+  - Ricardo D'Oliveira Albanus
+  - Rodrigo J S Dalmolin
+  - Mauro A A Castro
+Abstract: Orthology information has been used for searching patterns in high-dimensional data, allowing transferring functional information between species. The key concept behind this strategy is that orthologous genes share ancestry to some extent. While reconstructing the history of a single gene is feasible with the existing computational resources, the reconstruction of entire biological systems remains challenging. In this study, we present Bridge, a new algorithm designed to infer the evolutionary root of orthologous genes in large-scale evolutionary analyses. The Bridge algorithm infers the evolutionary root of a given gene based on the distribution of its orthologs in a species tree. The Bridge algorithm is implemented in R and can be used either to assess genetic changes across the evolutionary history of orthologous groups or to infer the onset of specific traits in a biological system.

@@ -1,0 +1,11 @@
+Title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes.
+Journal: Omics : a journal of integrative biology
+Publication Date: 2024-03-11
+Authors:
+  - Karoline Dos Santos Rodrigues
+  - Daniel Sturza Lucas Caetano
+  - João Vitor Cavalcante
+  - Rodrigo Dalmolin
+  - Patrícia K Ziegelmann
+  - Michael Andrades
+Abstract: Trastuzumab is a monoclonal antibody used in oncotherapy for HER2-positive tumors. However, as an adverse effect, trastuzumab elevates the risk of heart failure, implying the involvement of energy production and mitochondrial processes. Past studies with transcriptome analysis have offered insights on pathways related to trastuzumab safety and toxicity but limited study sizes hinder conclusive findings. Therefore, we meta-analyzed mitochondria-related gene expression data in trastuzumab-treated cardiomyocytes. We searched the transcriptome databases for trastuzumab-treated cardiomyocytes in the ArrayExpress, DDBJ Omics Archive, Gene Expression Omnibus, Google Scholar, PubMed, and Web of Science repositories. A subset of 1270 genes related to mitochondrial functions (biogenesis, organization, mitophagy, and autophagy) was selected from the Kyoto Encyclopedia of Genes and Genomes and Gene Ontology Resource databases to conduct the present meta-analysis using the Metagen package (Study register at PROSPERO: CRD42021270645). Three datasets met the inclusion criteria and 1243 genes were meta-analyzed. We observed 69 upregulated genes after trastuzumab treatment which were related mainly to autophagy (28 genes) and mitochondrial organization (28 genes). We also found 37 downregulated genes which were related mainly to mitochondrial biogenesis (11 genes) and mitochondrial organization (24 genes). The present meta-analysis indicates that trastuzumab therapy causes an unbalance in mitochondrial functions, which could, in part, help explain the development of heart failure and yields a list of potential molecular targets. These findings contribute to our understanding of the molecular mechanisms underlying the cardiotoxic effects of trastuzumab and may have implications for the development of targeted therapies to mitigate such effects.

@@ -1,0 +1,13 @@
+Title: Retinoic acid induces apoptosis by a non-classical mechanism of ERK1/2 activation.
+Journal: Toxicology in vitro : an international journal published in association with BIBRA
+Publication Date: 2008-05-14
+Authors:
+  - Alfeu Zanotto-Filho
+  - Martin Cammarota
+  - Daniel P Gelain
+  - Ramatis B Oliveira
+  - Andres Delgado-Cañedo
+  - Rodrigo J S Dalmolin
+  - Matheus A B Pasquali
+  - José Cláudio F Moreira
+Abstract: Even though RA is involved in differentiation and apoptosis of normal and cancer cells, being sometimes used as adjuvant in chemotherapy, its mechanisms of action involve multiple overlapping pathways that still remain unclear. Recent studies point out that RA exerts rapid and non-genomic effects, which are independent of RAR/RXR-mediated gene transcription. In this work, we reported that RA treatment for 24 h decreases cell viability, induces apoptosis dependent on caspase-3 activation, and activates the transcription factor AP-1 in cultured Sertoli cells. Moreover, RA induced a rapid and non-classical stimulation of ERK1/2. ERK1/2 activation was mediated by MEK1/2, and the protein synthesis inhibitor cycloheximide did not alter the pattern of RA-induced ERK1/2 phosphorylation. Pharmacological inhibition of MEK1/2-ERK1/2 pathway with UO126 blocked caspase-3 activation, decreased AP-1 binding to DNA and inhibited apoptosis. Overall, our data suggest that a rapid and non-genomic effect of RA upon MEK1/2-ERK1/2 pathway leads to caspase-3 activation and caspase-3-dependent apoptosis in cultured Sertoli cells. The non-canonical RA signaling presented in this work evokes new perspectives of RA action, which may play an important role in mediating early biological effects of RA modulating cell death in normal and tumor cells.

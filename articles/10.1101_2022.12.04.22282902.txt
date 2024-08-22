@@ -1,0 +1,23 @@
+Title: Predicting Long COVID in the National COVID Cohort Collaborative Using Super Learner: Cohort Study.
+Journal: JMIR public health and surveillance
+Publication Date: 2024-08-15
+Authors:
+  - Zachary Butzin-Dozier
+  - Yunwen Ji
+  - Haodong Li
+  - Jeremy Coyle
+  - Junming Shi
+  - Rachael V Phillips
+  - Andrew N Mertens
+  - Romain Pirracchio
+  - Mark J van der Laan
+  - Rena C Patel
+  - John M Colford
+  - Alan E Hubbard
+  - None None
+Abstract: Postacute sequelae of COVID-19 (PASC), also known as long COVID, is a broad grouping of a range of long-term symptoms following acute COVID-19. These symptoms can occur across a range of biological systems, leading to challenges in determining risk factors for PASC and the causal etiology of this disorder. An understanding of characteristics that are predictive of future PASC is valuable, as this can inform the identification of high-risk individuals and future preventative efforts. However, current knowledge regarding PASC risk factors is limited.
+Using a sample of 55,257 patients (at a ratio of 1 patient with PASC to 4 matched controls) from the National COVID Cohort Collaborative, as part of the National Institutes of Health Long COVID Computational Challenge, we sought to predict individual risk of PASC diagnosis from a curated set of clinically informed covariates. The National COVID Cohort Collaborative includes electronic health records for more than 22 million patients from 84 sites across the United States.
+We predicted individual PASC status, given covariate information, using Super Learner (an ensemble machine learning algorithm also known as stacking) to learn the optimal combination of gradient boosting and random forest algorithms to maximize the area under the receiver operator curve. We evaluated variable importance (Shapley values) based on 3 levels: individual features, temporal windows, and clinical domains. We externally validated these findings using a holdout set of randomly selected study sites.
+We were able to predict individual PASC diagnoses accurately (area under the curve 0.874). The individual features of the length of observation period, number of health care interactions during acute COVID-19, and viral lower respiratory infection were the most predictive of subsequent PASC diagnosis. Temporally, we found that baseline characteristics were the most predictive of future PASC diagnosis, compared with characteristics immediately before, during, or after acute COVID-19. We found that the clinical domains of health care use, demographics or anthropometry, and respiratory factors were the most predictive of PASC diagnosis.
+The methods outlined here provide an open-source, applied example of using Super Learner to predict PASC status using electronic health record data, which can be replicated across a variety of settings. Across individual predictors and clinical domains, we consistently found that factors related to health care use were the strongest predictors of PASC diagnosis. This indicates that any observational studies using PASC diagnosis as a primary outcome must rigorously account for heterogeneous health care use. Our temporal findings support the hypothesis that clinicians may be able to accurately assess the risk of PASC in patients before acute COVID-19 diagnosis, which could improve early interventions and preventive care. Our findings also highlight the importance of respiratory characteristics in PASC risk assessment.
+RR2-10.1101/2023.07.27.23293272.

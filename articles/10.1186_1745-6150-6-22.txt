@@ -1,0 +1,13 @@
+Title: Evolutionary plasticity determination by orthologous groups distribution.
+Journal: Biology direct
+Publication Date: 2011-05-19
+Authors:
+  - Rodrigo J S Dalmolin
+  - Mauro A A Castro
+  - José L Rybarczyk Filho
+  - Luis H T Souza
+  - Rita M C de Almeida
+  - José C F Moreira
+Abstract: Genetic plasticity may be understood as the ability of a functional gene network to tolerate alterations in its components or structure. Usually, the studies involving gene modifications in the course of the evolution are concerned to nucleotide sequence alterations in closely related species. However, the analysis of large scale data about the distribution of gene families in non-exclusively closely related species can provide insights on how plastic or how conserved a given gene family is. Here, we analyze the abundance and diversity of all Eukaryotic Clusters of Orthologous Groups (KOG) present in STRING database, resulting in a total of 4,850 KOGs. This dataset comprises 481,421 proteins distributed among 55 eukaryotes.
+We propose an index to evaluate the evolutionary plasticity and conservation of an orthologous group based on its abundance and diversity across eukaryotes. To further KOG plasticity analysis, we estimate the evolutionary distance average among all proteins which take part in the same orthologous group. As a result, we found a strong correlation between the evolutionary distance average and the proposed evolutionary plasticity index. Additionally, we found low evolutionary plasticity in Saccharomyces cerevisiae genes associated with inviability and Mus musculus genes associated with early lethality. At last, we plot the evolutionary plasticity value in different gene networks from yeast and humans. As a result, it was possible to discriminate among higher and lower plastic areas of the gene networks analyzed.
+The distribution of gene families brings valuable information on evolutionary plasticity which might be related with genetic plasticity. Accordingly, it is possible to discriminate among conserved and plastic orthologous groups by evaluating their abundance and diversity across eukaryotes.

@@ -1,0 +1,10 @@
+Title: MEDUSA: A Pipeline for Sensitive Taxonomic Classification and Flexible Functional Annotation of Metagenomic Shotgun Sequences.
+Journal: Frontiers in genetics
+Publication Date: 2022-03-26
+Authors:
+  - Diego A A Morais
+  - João V F Cavalcante
+  - Shênia S Monteiro
+  - Matheus A B Pasquali
+  - Rodrigo J S Dalmolin
+Abstract: Metagenomic studies unravel details about the taxonomic composition and the functions performed by microbial communities. As a complete metagenomic analysis requires different tools for different purposes, the selection and setup of these tools remain challenging. Furthermore, the chosen toolset will affect the accuracy, the formatting, and the functional identifiers reported in the results, impacting the results interpretation and the biological answer obtained. Thus, we surveyed state-of-the-art tools available in the literature, created simulated datasets, and performed benchmarks to design a sensitive and flexible metagenomic analysis pipeline. Here we present MEDUSA, an efficient pipeline to conduct comprehensive metagenomic analyses. It performs preprocessing, assembly, alignment, taxonomic classification, and functional annotation on shotgun data, supporting user-built dictionaries to transfer annotations to any functional identifier. MEDUSA includes several tools, as fastp, Bowtie2, DIAMOND, Kaiju, MEGAHIT, and a novel tool implemented in Python to transfer annotations to BLAST/DIAMOND alignment results. These tools are installed via Conda, and the workflow is managed by Snakemake, easing the setup and execution. Compared with MEGAN 6 Community Edition, MEDUSA correctly identifies more species, especially the less abundant, and is more suited for functional analysis using Gene Ontology identifiers.

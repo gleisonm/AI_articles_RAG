@@ -1,0 +1,12 @@
+Title: Metagenomic Analyses Reveal the Influence of Depth Layers on Marine Biodiversity on Tropical and Subtropical Regions.
+Journal: Microorganisms
+Publication Date: 2023-07-29
+Authors:
+  - Bianca C F Santiago
+  - Iara D de Souza
+  - João Vitor F Cavalcante
+  - Diego A A Morais
+  - Mikaelly B da Silva
+  - Matheus Augusto de B Pasquali
+  - Rodrigo J S Dalmolin
+Abstract: The emergence of open ocean global-scale studies provided important information about the genomics of oceanic microbial communities. Metagenomic analyses shed light on the structure of marine habitats, unraveling the biodiversity of different water masses. Many biological and environmental factors can contribute to marine organism composition, such as depth. However, much remains unknown about microbial communities' taxonomic and functional features in different water layer depths. Here, we performed a metagenomic analysis of 76 publicly available samples from the Tara Ocean Project, distributed in 8 collection stations located in tropical or subtropical regions, and sampled from three layers of depth (surface water layer-SRF, deep chlorophyll maximum layer-DCM, and mesopelagic zone-MES). The SRF and DCM depth layers are similar in abundance and diversity, while the MES layer presents greater diversity than the other layers. Diversity clustering analysis shows differences regarding the taxonomic content of samples. At the domain level, bacteria prevail in most samples, and the MES layer presents the highest proportion of archaea among all samples. Taken together, our results indicate that the depth layer influences microbial sample composition and diversity.

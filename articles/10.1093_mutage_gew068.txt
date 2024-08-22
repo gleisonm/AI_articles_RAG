@@ -1,0 +1,11 @@
+Title: Analysis of genome instability biomarkers in children with non-syndromic orofacial clefts.
+Journal: Mutagenesis
+Publication Date: 2017-01-18
+Authors:
+  - Luíza Araújo da Costa Xavier
+  - João Felipe Bezerra
+  - Adriana Augusto de Rezende
+  - Raffael Azevedo de Carvalho Oliveira
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Viviane Souza do Amaral
+Abstract: The non-syndromic cleft lip and/or palate (NSCL/P) is a common birth defect caused by a combination of genetic and environmental factors. The possible role of genome instability on NSCL/P patient needs more investigation, since DNA metabolism is an essential cellular function to keep cells with normal genotypes and gene expression patterns according to tissue specificities, which is critical during embryo development because it requires sensitive regulation of cell proliferation, apoptosis and differentiation. Thus, genome stability is ultimately essential to maintain a healthy life. The aim of this study was to assess the frequency of genome instability biomarkers and their relationship with NSCL/P. Cytokinesis-block micronucleus assay was performed to estimate the biomarkers frequency and gene expression was analyzed by the transcriptogram in order to further explore the role of genome instability and other biological processes in this birth defect. The NSCL/P patients had higher baseline frequency of micronucleus, nuclear buds and nucleoplasmic bridges (P < 0.001) than the control group. Moreover, new nuclear morphologies (fused, circular and horseshoe) was detected in the patients' cells analyzed, possibly indicating that chronic folic acid deficiency is interfering in their genome instability. Children with clefts had 2.3 times more risk to have high micronuclei frequency (P = 0.043) according to binary logistic regression. The high genomic instability in children with oral clefts suggests that misrepaired double strand breaks in DNA that create micronuclei representing a significant factor in NSCL/P development. This study was published in 52nd EUROTOX Abstract Book.

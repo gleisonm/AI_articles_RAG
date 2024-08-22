@@ -1,0 +1,9 @@
+Title: Ionotropic Receptors as a Driving Force behind Human Synapse Establishment.
+Journal: Molecular biology and evolution
+Publication Date: 2020-09-29
+Authors:
+  - Lucas Henriques Viscardi
+  - Danilo Oliveira Imparato
+  - Maria Cátira Bortolini
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: The origin of nervous systems is a main theme in biology and its mechanisms are largely underlied by synaptic neurotransmission. One problem to explain synapse establishment is that synaptic orthologs are present in multiple aneural organisms. We questioned how the interactions among these elements evolved and to what extent it relates to our understanding of the nervous systems complexity. We identified the human neurotransmission gene network based on genes present in GABAergic, glutamatergic, serotonergic, dopaminergic, and cholinergic systems. The network comprises 321 human genes, 83 of which act exclusively in the nervous system. We reconstructed the evolutionary scenario of synapse emergence by looking for synaptic orthologs in 476 eukaryotes. The Human-Cnidaria common ancestor displayed a massive emergence of neuroexclusive genes, mainly ionotropic receptors, which might have been crucial to the evolution of synapses. Very few synaptic genes had their origin after the Human-Cnidaria common ancestor. We also identified a higher abundance of synaptic proteins in vertebrates, which suggests an increase in the synaptic network complexity of those organisms.

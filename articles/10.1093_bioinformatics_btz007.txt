@@ -1,0 +1,11 @@
+Title: Transcriptogramer: an R/Bioconductor package for transcriptional analysis based on protein-protein interaction.
+Journal: Bioinformatics (Oxford, England)
+Publication Date: 2019-01-10
+Authors:
+  - Diego A A Morais
+  - Rita M C Almeida
+  - Rodrigo J S Dalmolin
+Abstract: Several freely available tools perform analysis using algorithms developed to identify significant variation of gene expression individually. The transcriptogramer R package uses protein-protein interaction to perform differential expression of functionally associated genes. The software assesses expression profile of entire genetic systems and reveals which biological systems are significantly altered in case-control designed transcriptome experiments.
+R/Bioconductor transcriptogramer package projects expression values on an ordered gene list to perform topological analysis, differential expression and gene ontology enrichment analysis, independently of data platform or operating system.
+http://bioconductor.org/packages/transcriptogramer.
+Supplementary data are available at Bioinformatics online.

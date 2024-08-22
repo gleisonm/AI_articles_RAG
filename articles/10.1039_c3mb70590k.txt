@@ -1,0 +1,10 @@
+Title: Computational analyses reveal a prognostic impact of TULP3 as a transcriptional master regulator in pancreatic ductal adenocarcinoma.
+Journal: Molecular bioSystems
+Publication Date: 2014-03-29
+Authors:
+  - I T S Sartor
+  - F Zeidán-Chuliá
+  - R D Albanus
+  - R J S Dalmolin
+  - J C F Moreira
+Abstract: Pancreatic ductal adenocarcinoma (PDAC) is recognized world-wide as an aggressive disease with poor prognosis in patients with or without resection. Further knowledge about the biological mechanisms of PDAC is necessary to enable the identification of novel molecular markers and therapeutic targets for early diagnosis and improved treatment. Transcription factors are the final effectors of signaling pathways and regulate a number of cellular functions. Changes in their expression may contribute to cellular transformation and tumor progression. Thus, the aim of the present study was to identify the Master Regulators (MRs) of transcription potentially involved in PDAC disease. To achieve this goal, we utilized microarray data to correlate MR genes with the tumor phenotype. Analyses were performed with RTN, Limma, and Survival packages in the R environment. We identified Tubby-like protein 3 (TULP3) as a MR of transcription in PDAC samples. The prognostic value of TULP3 was assessed in three independent cohort analyses. Our data demonstrated that pancreatic cancer patients exhibiting high transcriptional levels of TULP3 showed a poor overall survival rate. High expression levels of TULP3 may play an essential role in pancreatic cancer progression and possibly lead to a poor clinical outcome. Our results highlight the potential use of TULP3 as a clinical prognostic biomarker for pancreatic adenocarcinoma.

@@ -1,0 +1,14 @@
+Title: Reverse Engineering of Ewing Sarcoma Regulatory Network Uncovers PAX7 and RUNX3 as Master Regulators Associated with Good Prognosis.
+Journal: Cancers
+Publication Date: 2021-05-01
+Authors:
+  - Marcel da Câmara Ribeiro-Dantas
+  - Danilo Oliveira Imparato
+  - Matheus Gibeke Siqueira Dalmolin
+  - Caroline Brunetto de Farias
+  - André Tesainer Brunetto
+  - Mariane da Cunha Jaeger
+  - Rafael Roesler
+  - Marialva Sinigaglia
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: Ewing Sarcoma (ES) is a rare malignant tumor occurring most frequently in adolescents and young adults. The ES hallmark is a chromosomal translocation between the chromosomes 11 and 22 that results in an aberrant transcription factor (TF) through the fusion of genes from the FET and ETS families, commonly EWSR1 and FLI1. The regulatory mechanisms behind the ES transcriptional alterations remain poorly understood. Here, we reconstruct the ES regulatory network using public available transcriptional data. Seven TFs were identified as potential MRs and clustered into two groups: one composed by PAX7 and RUNX3, and another composed by ARNT2, CREB3L1, GLI3, MEF2C, and PBX3. The MRs within each cluster act as reciprocal agonists regarding the regulation of shared genes, regulon activity, and implications in clinical outcome, while the clusters counteract each other. The regulons of all the seven MRs were differentially methylated. PAX7 and RUNX3 regulon activity were associated with good prognosis while ARNT2, CREB3L1, GLI3, and PBX3 were associated with bad prognosis. PAX7 and RUNX3 appear as highly expressed in ES biopsies and ES cell lines. This work contributes to the understanding of the ES regulome, identifying candidate MRs, analyzing their methilome and pointing to potential prognostic factors.

@@ -1,0 +1,20 @@
+Título: Descreva o tema principal do artigo de forma sucinta.
+
+Resumo do Conteúdo:
+
+Introdução: Contextualize brevemente o tema principal e o problema que o artigo aborda.
+Objetivos: Descreva os principais objetivos da pesquisa, destacando o que os autores pretendem descobrir ou demonstrar.
+Metodologia: Explique de forma simplificada as técnicas ou abordagens utilizadas no estudo, como coleta de dados, análises realizadas, e métodos aplicados.
+Resultados: Destaque os principais achados ou conclusões do estudo, mencionando os elementos mais relevantes ou surpreendentes.
+Implicações: Discuta as possíveis aplicações práticas ou a relevância dos resultados no campo de estudo.
+Autores e Afiliações: Liste os principais autores, suas afiliações, e qualquer contribuição notável, o que pode ajudar a IA a contextualizar a expertise por trás do estudo.
+
+Palavras-chave: Enumere os termos mais importantes relacionados ao estudo, como conceitos-chave ou áreas de aplicação.
+
+Contextualização do Estudo: Explique onde este estudo se encaixa no campo mais amplo, mencionando se ele confirma, expande ou contradiz trabalhos anteriores.
+
+Essa estrutura fornece uma visão abrangente e organizada de cada artigo, permitindo que a IA acesse as informações de forma clara e contextualizada.
+
+
+
+

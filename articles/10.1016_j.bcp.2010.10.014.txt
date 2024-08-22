@@ -1,0 +1,14 @@
+Title: NFκB inhibitors induce cell death in glioblastomas.
+Journal: Biochemical pharmacology
+Publication Date: 2010-11-03
+Authors:
+  - Alfeu Zanotto-Filho
+  - Elizandra Braganhol
+  - Rafael Schröder
+  - Luís Henrique T de Souza
+  - Rodrigo J S Dalmolin
+  - Matheus A Bittencourt Pasquali
+  - Daniel Pens Gelain
+  - Ana Maria Oliveira Battastini
+  - José Cláudio Fonseca Moreira
+Abstract: Identification of novel target pathways in glioblastoma (GBM) remains critical due to poor prognosis, inefficient therapies and recurrence associated with these tumors. In this work, we evaluated the role of nuclear-factor-kappa-B (NFκB) in the growth of GBM cells, and the potential of NFκB inhibitors as antiglioma agents. NFκB pathway was found overstimulated in GBM cell lines and in tumor specimens compared to normal astrocytes and healthy brain tissues, respectively. Treatment of a panel of established GBM cell lines (U138MG, U87, U373 and C6) with pharmacological NFκB inhibitors (BAY117082, parthenolide, MG132, curcumin and arsenic trioxide) and NFκB-p65 siRNA markedly decreased the viability of GBMs as compared to inhibitors of other signaling pathways such as MAPKs (ERK, JNK and p38), PKC, EGFR and PI3K/Akt. In addition, NFκB inhibitors presented a low toxicity to normal astrocytes, indicating selectivity to cancerous cells. In GBMs, mitochondrial dysfunction (membrane depolarization, bcl-xL downregulation and cytochrome c release) and arrest in the G2/M phase were observed at the early steps of NFκB inhibitors treatment. These events preceded sub-G1 detection, apoptotic body formation and caspase-3 activation. Also, NFκB was found overstimulated in cisplatin-resistant C6 cells, and treatment of GBMs with NFκB inhibitors overcame cisplatin resistance besides potentiating the effects of the chemotherapeutics, cisplatin and doxorubicin. These findings support NFκB as a potential target to cell death induction in GBMs, and that the NFκB inhibitors may be considered for in vivo testing on animal models and possibly on GBM therapy.

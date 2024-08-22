@@ -1,0 +1,8 @@
+Title: Lead-interacting proteins and their implication in lead poisoning.
+Journal: Critical reviews in toxicology
+Publication Date: 2018-02-13
+Authors:
+  - Iara Dantas de Souza
+  - Abraão Silveira de Andrade
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: Lead is an important heavy metal used worldwide in several applications, especially in industry. People exposed to lead can develop a wide range of symptoms associated with lead poisoning. Many effects of lead poisoning are reported in the literature, showing a compromising of whole body health, with symptoms related to cardiovascular, immune, bone, reproductive, hematological, renal, gastrointestinal, and nervous system. However, the molecular lead targets as well as the pathways affected by lead poisoning are not completely described. The aim of this study was to construct a map of metabolic pathways impaired in lead poisoning by evaluating which biomolecules are directly affected by lead. Through manual literature curation, we identified proteins which physically interact with lead and subsequently determined the metabolic pathways those proteins are involved with. At total, we identified 23 proteins involved with heme synthesis, calcium metabolism, neurotransmission, among other biological systems, which helps to understand the wide range of lead-poisoning symptoms.

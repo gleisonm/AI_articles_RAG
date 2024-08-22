@@ -1,0 +1,12 @@
+Title: The evolution of knowledge on genes associated with human diseases.
+Journal: iScience
+Publication Date: 2022-01-11
+Authors:
+  - Thomaz Lüscher-Dias
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Paulo de Paiva Amaral
+  - Tiago Lubiana Alves
+  - Viviane Schuch
+  - Glória Regina Franco
+  - Helder I Nakaya
+Abstract: Thousands of biomedical scientific articles, including those describing genes associated with human diseases, are published every week. Computational methods such as text mining and machine learning algorithms are now able to automatically detect these associations. In this study, we used a cognitive computing text-mining application to construct a knowledge network comprising 3,723 genes and 99 diseases. We then tracked the yearly changes on these networks to analyze how our knowledge has evolved in the past 30 years. Our systems approach helped to unravel the molecular bases of diseases and detect shared mechanisms between clinically distinct diseases. It also revealed that multi-purpose therapeutic drugs target genes that are commonly associated with several psychiatric, inflammatory, or infectious disorders. By navigating this knowledge tsunami, we were able to extract relevant biological information and insights about human diseases.

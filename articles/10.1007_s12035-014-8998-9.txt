@@ -1,0 +1,15 @@
+Title: Gene Expression Profile of NF-κB, Nrf2, Glycolytic, and p53 Pathways During the SH-SY5Y Neuronal Differentiation Mediated by Retinoic Acid.
+Journal: Molecular neurobiology
+Publication Date: 2014-12-04
+Authors:
+  - Matheus Augusto de Bittencourt Pasquali
+  - Vitor Miranda de Ramos
+  - Ricardo D Oliveira Albanus
+  - Alice Kunzler
+  - Luis Henrinque Trentin de Souza
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Daniel Pens Gelain
+  - Leila Ribeiro
+  - Luigi Carro
+  - José Cláudio Fonseca Moreira
+Abstract: SH-SY5Y cells, a neuroblastoma cell line that is a well-established model system to study the initial phases of neuronal differentiation, have been used in studies to elucidate the mechanisms of neuronal differentiation. In the present study, we investigated alterations of gene expression in SH-SY5Y cells during neuronal differentiation mediated by retinoic acid (RA) treatment. We evaluated important pathways involving nuclear factor kappa B (NF-κB), nuclear E2-related factor 2 (Nrf2), glycolytic, and p53 during neuronal differentiation. We also investigated the involvement of reactive oxygen species (ROS) in modulating the gene expression profile of those pathways by antioxidant co-treatment with Trolox®, a hydrophilic analogue of α-tocopherol. We found that RA treatment increases levels of gene expression of NF-κB, glycolytic, and antioxidant pathway genes during neuronal differentiation of SH-SY5Y cells. We also found that ROS production induced by RA treatment in SH-SY5Y cells is involved in gene expression profile alterations, chiefly in NF-κB, and glycolytic pathways. Antioxidant co-treatment with Trolox® reversed the effects mediated by RA NF-κB, and glycolytic pathways gene expression. Interestingly, co-treatment with Trolox® did not reverse the effects in antioxidant gene expression mediated by RA in SH-SY5Y. To confirm neuronal differentiation, we quantified endogenous levels of tyrosine hydroxylase, a recognized marker of neuronal differentiation. Our data suggest that during neuronal differentiation mediated by RA, changes in profile gene expression of important pathways occur. These alterations are in part mediated by ROS production. Therefore, our results reinforce the importance in understanding the mechanism by which RA induces neuronal differentiation in SH-SY5Y cells, principally due this model being commonly used as a neuronal cell model in studies of neuronal pathologies.

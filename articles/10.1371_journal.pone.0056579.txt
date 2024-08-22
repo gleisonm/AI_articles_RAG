@@ -1,0 +1,12 @@
+Title: Preferential duplication of intermodular hub genes: an evolutionary signature in eukaryotes genome networks.
+Journal: PloS one
+Publication Date: 2013-03-08
+Authors:
+  - Ricardo M Ferreira
+  - José Luiz Rybarczyk-Filho
+  - Rodrigo J S Dalmolin
+  - Mauro A A Castro
+  - José C F Moreira
+  - Leonardo G Brunnet
+  - Rita M C de Almeida
+Abstract: Whole genome protein-protein association networks are not random and their topological properties stem from genome evolution mechanisms. In fact, more connected, but less clustered proteins are related to genes that, in general, present more paralogs as compared to other genes, indicating frequent previous gene duplication episodes. On the other hand, genes related to conserved biological functions present few or no paralogs and yield proteins that are highly connected and clustered. These general network characteristics must have an evolutionary explanation. Considering data from STRING database, we present here experimental evidence that, more than not being scale free, protein degree distributions of organisms present an increased probability for high degree nodes. Furthermore, based on this experimental evidence, we propose a simulation model for genome evolution, where genes in a network are either acquired de novo using a preferential attachment rule, or duplicated with a probability that linearly grows with gene degree and decreases with its clustering coefficient. For the first time a model yields results that simultaneously describe different topological distributions. Also, this model correctly predicts that, to produce protein-protein association networks with number of links and number of nodes in the observed range for Eukaryotes, it is necessary 90% of gene duplication and 10% of de novo gene acquisition. This scenario implies a universal mechanism for genome evolution.

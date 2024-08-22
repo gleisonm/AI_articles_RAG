@@ -1,0 +1,11 @@
+Title: Towards a genome-wide transcriptogram: the Saccharomyces cerevisiae case.
+Journal: Nucleic acids research
+Publication Date: 2010-12-21
+Authors:
+  - José Luiz Rybarczyk-Filho
+  - Mauro A A Castro
+  - Rodrigo J S Dalmolin
+  - José C F Moreira
+  - Leonardo G Brunnet
+  - Rita M C de Almeida
+Abstract: Analysis of genome-wide expression data poses a challenge to extract relevant information. The usual approaches compare cellular expression levels relative to a pre-established control and genes are clustered based on the correlation of their expression levels. This implies that cluster definitions are dependent on the cellular metabolic state, eventually varying from one experiment to another. We present here a computational method that order genes on a line and clusters genes by the probability that their products interact. Protein-protein association information can be obtained from large data bases as STRING. The genome organization obtained this way is independent from specific experiments, and defines functional modules that are associated with gene ontology terms. The starting point is a gene list and a matrix specifying interactions. Considering the Saccharomyces cerevisiae genome, we projected on the ordering gene expression data, producing plots of transcription levels for two different experiments, whose data are available at Gene Expression Omnibus database. These plots discriminate metabolic cellular states, point to additional conclusions, and may be regarded as the first versions of 'transcriptograms'. This method is useful for extracting information from cell stimuli/responses experiments, and may be applied with diagnostic purposes to different organisms.

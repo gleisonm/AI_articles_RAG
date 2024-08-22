@@ -1,0 +1,11 @@
+Title: A systematic review of human antioxidant genes.
+Journal: Frontiers in bioscience (Landmark edition)
+Publication Date: 2009-03-11
+Authors:
+  - Daniel P Gelain
+  - Rodrigo J S Dalmolin
+  - Vanessa L Belau
+  - Jose C F Moreira
+  - Fabio Klamt
+  - Mauro A A Castro
+Abstract: The balance between production and clearance of reactive species is essential for cell survival. Antioxidant cellular systems evolved to maintain a redox homeostasis under different physiological and pathological conditions. Therefore, many authors aim at better understanding the mechanisms and functions of cellular antioxidant components and their relationships between each other and with more general cell functions. Nonetheless, the definition of an "antioxidant system" is a wide and sometimes relative concept, and there is no consensus regarding the necessary requisites for classifying a cell functional component into such category. Here, we suggest a list of human antioxidant genes comprehending all gene products fulfilling specific inclusion criteria, such as antioxidant enzymatic function, participation in redox reactions and other molecular interactions directly related to antioxidant activity. The criteria are discussed and the gene-protein-substrate associations between the components of the list are presented. In addition, at http://www.ufrgs.br/icbs/hag we provide a network-based model of human antioxidant genes, which can be used as reference tool to access several database resources (e.g., RefSeq, Ensembl, HGNC and the NCBI Entrez database).

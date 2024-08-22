@@ -1,0 +1,10 @@
+Title: Mitogenic signaling mediated by oxidants in retinol treated Sertoli cells.
+Journal: Free radical research
+Publication Date: 2002-01-29
+Authors:
+  - F Dal-Pizzol
+  - F Klamt
+  - R J Dalmolin
+  - E A Bernard
+  - J C Moreira
+Abstract: Recent intervention studies revealed that supplementation with retinoids resulted in a higher incidence of lung cancer. Recently the causal mechanism has begun to be clarified. We report here that retinol-induced oxidative stress is accompanied by cellular proliferation. Retinol (7 microM) significantly induced thiobarbituric acid reactive species (TBARS) formation, which was inhibited by trolox, superoxide dismutase, N-acetylcysteine and ethanol. This was accompanied by an increase in DNA synthesis and focus formation in cultured rat Sertoli cells. Antioxidants and ethanol inhibited retinol-induced DNA synthesis. Our findings suggest that retinol-induced oxidative stress was associated with cellular proliferation complementing our understanding of the significance of retinol supplementation in neoplastic transformation.

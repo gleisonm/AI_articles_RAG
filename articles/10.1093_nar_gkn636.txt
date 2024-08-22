@@ -1,0 +1,10 @@
+Title: Evolutionary origins of human apoptosis and genome-stability gene networks.
+Journal: Nucleic acids research
+Publication Date: 2008-10-04
+Authors:
+  - Mauro A A Castro
+  - Rodrigo J S Dalmolin
+  - José C F Moreira
+  - José C M Mombach
+  - Rita M C de Almeida
+Abstract: Apoptosis is essential for complex multicellular organisms and its failure is associated with genome instability and cancer. Interactions between apoptosis and genome-maintenance mechanisms have been extensively documented and include transactivation-independent and -dependent functions, in which the tumor-suppressor protein p53 works as a 'molecular node' in the DNA-damage response. Although apoptosis and genome stability have been identified as ancient pathways in eukaryote phylogeny, the biological evolution underlying the emergence of an integrated system remains largely unknown. Here, using computational methods, we reconstruct the evolutionary scenario that linked apoptosis with genome stability pathways in a functional human gene/protein association network. We found that the entanglement of DNA repair, chromosome stability and apoptosis gene networks appears with the caspase gene family and the antiapoptotic gene BCL2. Also, several critical nodes that entangle apoptosis and genome stability are cancer genes (e.g. ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6 and TP53), although their orthologs have arisen in different points of evolution. Our results demonstrate how genome stability and apoptosis were co-opted during evolution recruiting genes that merge both systems. We also provide several examples to exploit this evolutionary platform, where we have judiciously extended information on gene essentiality inferred from model organisms to human.

@@ -1,0 +1,12 @@
+Title: Reverse engineering the neuroblastoma regulatory network uncovers MAX as one of the master regulators of tumor progression.
+Journal: PloS one
+Publication Date: 2013-12-19
+Authors:
+  - Ricardo D'Oliveira Albanus
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Mauro Antônio Alves Castro
+  - Matheus Augusto de Bittencourt Pasquali
+  - Vitor de Miranda Ramos
+  - Daniel Pens Gelain
+  - José Cláudio Fonseca Moreira
+Abstract: Neuroblastoma is the most common extracranial tumor and a major cause of infant cancer mortality worldwide. Despite its importance, little is known about its molecular mechanisms. A striking feature of this tumor is its clinical heterogeneity. Possible outcomes range from aggressive invasion to other tissues, causing patient death, to spontaneous disease regression or differentiation into benign ganglioneuromas. Several efforts have been made in order to find tumor progression markers. In this work, we have reconstructed the neuroblastoma regulatory network using an information-theoretic approach in order to find genes involved in tumor progression and that could be used as outcome predictors or as therapeutic targets. We have queried the reconstructed neuroblastoma regulatory network using an aggressive neuroblastoma metastasis gene signature in order to find its master regulators (MRs). MRs expression profiles were then investigated in other neuroblastoma datasets so as to detect possible clinical significance. Our analysis pointed MAX as one of the MRs of neuroblastoma progression. We have found that higher MAX expression correlated with favorable patient outcomes. We have also found that MAX expression and protein levels were increased during neuroblastoma SH-SY5Y cells differentiation. We propose that MAX is involved in neuroblastoma progression, possibly increasing cell differentiation by means of regulating the availability of MYC:MAX heterodimers. This mechanism is consistent with the results found in our SH-SY5Y differentiation protocol, suggesting that MAX has a more central role in these cells differentiation than previously reported. Overexpression of MAX has been identified as anti-tumorigenic in other works, but, to our knowledge, this is the first time that the link between the expression of this gene and malignancy was verified under physiological conditions.

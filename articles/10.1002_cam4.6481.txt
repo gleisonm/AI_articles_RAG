@@ -1,0 +1,13 @@
+Title: Revealing metastatic castration-resistant prostate cancer master regulator through lncRNAs-centered regulatory network.
+Journal: Cancer medicine
+Publication Date: 2023-08-30
+Authors:
+  - Rafaella Sousa Ferraz
+  - João Vitor Ferreira Cavalcante
+  - Leandro Magalhães
+  - Ândrea Ribeiro-Dos-Santos
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: Metastatic castration-resistant prostate cancer (mCRPC) is an aggressive form of cancer unresponsive to androgen deprivation therapy (ADT) that spreads quickly to other organs. Despite reduced androgen levels after ADT, mCRPC development and lethality continues to be conducted by the androgen receptor (AR) axis. The maintenance of AR signaling in mCRPC is a result of AR alterations, androgen intratumoral production, and the action of regulatory elements, such as noncoding RNAs (ncRNAs). ncRNAs are key elements in cancer signaling, acting in tumor growth, metabolic reprogramming, and tumor progression. In prostate cancer (PCa), the ncRNAs have been reported to be associated with AR expression, PCa proliferation, and castration resistance. In this study, we aimed to reconstruct the lncRNA-centered regulatory network of mCRPC and identify the lncRNAs which act as master regulators (MRs).
+We used publicly available RNA-sequencing to infer the regulatory network of lncRNAs in mCRPC. Five gene signatures were employed to conduct the master regulator analysis. Inferred MRs were then subjected to functional enrichment and symbolic regression modeling. The latter approach was applied to identify the lncRNAs with greater predictive capacity and potential as a biomarker in mCRPC.
+We identified 31 lncRNAs involved in cellular proliferation, tumor metabolism, and invasion-metastasis cascade. SNHG18 and HELLPAR were the highlights of our results. SNHG18 was downregulated in mCRPC and enriched to metastasis signatures. It accurately distinguished both mCRPC and primary CRPC from normal tissue and was associated with epithelial-mesenchymal transition (EMT) and cell-matrix adhesion pathways. HELLPAR consistently distinguished mCRPC from primary CRPC and normal tissue using only its expression.
+Our results contribute to understanding the regulatory behavior of lncRNAs in mCRPC and indicate SNHG18 and HELLPAR as master regulators and potential new diagnostic targets in this tumor.

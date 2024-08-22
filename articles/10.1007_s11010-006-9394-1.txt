@@ -1,0 +1,14 @@
+Title: Can electrons travel through actin microfilaments and generate oxidative stress in retinol treated Sertoli cell?
+Journal: Molecular and cellular biochemistry
+Publication Date: 2007-01-05
+Authors:
+  - Ramatis Birnfeld de Oliveira
+  - Matheus Augusto de Bittencourt Pasquali
+  - Alfeu Zanotto Filho
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Daniel Pens Gelain
+  - Carmem Gottfried
+  - José Luiz Rodrigues
+  - Fábio Klamt
+  - José Cláudio Fonseca Moreira
+Abstract: In early reports our research group has demonstrated that 7 microM retinol (vitamin A) treatment leads to many changes in Sertoli cell metabolism, such as up-regulation of antioxidant enzyme activities, increase in damage to biomolecules, abnormal cellular division, pre-neoplasic transformation, and cytoskeleton conformational changes. These effects were observed to be dependent on the production of reactive oxygen species (ROS), suggesting extra-nuclear (non-genomic) effects of retinol metabolism. Besides 7 microM retinol treatment causing oxidative stress, we have demonstrated that changes observed in cytoskeleton of Sertoli cells under these conditions were protective, and seem to be an adaptive phenomenon against a pro-oxidant environment resulting from retinol treatment. We have hypothesized that the cytoskeleton can conduct electrons through actin microfilaments, which would be a natural process necessary for cell homeostasis. In the present study we demonstrate results correlating retinol metabolism, actin architecture, mitochondria physiology and ROS, in order to demonstrate that the electron conduction through actin microfilaments might explain our results. We believe that electrons produced by retinol metabolism are dislocated through actin microfilaments to mitochondria, and are transferred to electron transport chain to produce water. When mitochondria capacity to receive electrons is overloaded, superoxide radical production is increased and the oxidative stress process starts. Our results suggested that actin cytoskeleton is essential to oxidative stress production induced by retinol treatment, and electrons conduction through actin microfilaments can be the key of this correlation.

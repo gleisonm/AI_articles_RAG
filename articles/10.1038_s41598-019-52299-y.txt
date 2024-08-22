@@ -1,0 +1,13 @@
+Title: Analysis of Arabidopsis thaliana Redox Gene Network Indicates Evolutionary Expansion of Class III Peroxidase in Plants.
+Journal: Scientific reports
+Publication Date: 2019-11-02
+Authors:
+  - Raffael Azevedo de Carvalho Oliveira
+  - Abraão Silveira de Andrade
+  - Danilo Oliveira Imparato
+  - Juliana Gabriela Silva de Lima
+  - Ricardo Victor Machado de Almeida
+  - João Paulo Matos Santos Lima
+  - Matheus Augusto de Bittencourt Pasquali
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: Reactive oxygen species (ROS) are byproducts of aerobic metabolism and may cause oxidative damage to biomolecules. Plants have a complex redox system, involving enzymatic and non-enzymatic compounds. The evolutionary origin of enzymatic antioxidant defense in plants is yet unclear. Here, we describe the redox gene network for A. thaliana and investigate the evolutionary origin of this network. We gathered from public repositories 246 A. thaliana genes directly involved with ROS metabolism and proposed an A. thaliana redox gene network. Using orthology information of 238 Eukaryotes from STRINGdb, we inferred the evolutionary root of each gene to reconstruct the evolutionary history of A. thaliana antioxidant gene network. We found two interconnected clusters: one formed by SOD-related, Thiol-redox, peroxidases, and other oxido-reductase; and the other formed entirely by class III peroxidases. Each cluster emerged in different periods of evolution: the cluster formed by SOD-related, Thiol-redox, peroxidases, and other oxido-reductase emerged before opisthokonta-plant divergence; the cluster composed by class III peroxidases emerged after opisthokonta-plant divergence and therefore contained the most recent network components. According to our results, class III peroxidases are in expansion throughout plant evolution, with new orthologs emerging in each evaluated plant clade divergence.

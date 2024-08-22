@@ -1,0 +1,11 @@
+Title: Ancestry analysis indicates two different sets of essential genes in eukaryotic model species.
+Journal: Functional & integrative genomics
+Publication Date: 2021-07-20
+Authors:
+  - Iara D de Souza
+  - Clovis F Reis
+  - Diego A A Morais
+  - Vítor G S Fernandes
+  - João Vitor F Cavalcante
+  - Rodrigo J S Dalmolin
+Abstract: Essential genes are so-called because they are crucial for organism perpetuation. Those genes are usually related to essential functions to cellular metabolism or multicellular homeostasis. Deleterious alterations on essential genes produce a spectrum of phenotypes in multicellular organisms. The effects range from the impairment of the fertilization process, disruption of fetal development, to loss of reproductive capacity. Essential genes are described as more evolutionarily conserved than non-essential genes. However, there is no consensus about the relationship between gene essentiality and gene age. Here, we identified essential genes in five model eukaryotic species (Saccharomyces cerevisiae, Schizosaccharomyces pombe, Drosophila melanogaster, Caenorhabditis elegans, and Mus musculus) and estimate their evolutionary ancestry and their network properties. We observed that essential genes, on average, are older than other genes in all species investigated. The relationship of network properties and gene essentiality convey with previous findings, showing essential genes as important nodes in biological networks. As expected, we also observed that essential orthologs shared by the five species evaluated here are old. However, all the species evaluated here have a specific set of young essential genes not shared among them. Additionally, these two groups of essential genes are involved with distinct biological functions, suggesting two sets of essential genes: (i) a set of old essential genes common to all the evaluated species, regulating basic cellular functions, and (ii) a set of young essential genes exclusive to each species, which perform specific essential functions in each species.

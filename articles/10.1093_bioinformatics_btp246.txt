@@ -1,0 +1,13 @@
+Title: ViaComplex: software for landscape analysis of gene expression networks in genomic context.
+Journal: Bioinformatics (Oxford, England)
+Publication Date: 2009-04-17
+Authors:
+  - Mauro A A Castro
+  - José L Rybarczyk Filho
+  - Rodrigo J S Dalmolin
+  - Marialva Sinigaglia
+  - José C F Moreira
+  - José C M Mombach
+  - Rita M C de Almeida
+Abstract: ViaComplex is an open-source application that builds landscape maps of gene expression networks. The motivation for this software comes from two previous publications (Nucleic Acids Res., 35, 1859-1867, 2007; Nucleic Acids Res., 36, 6269-6283, 2008). The first article presents a network-based model of genome stability pathways where we defined a set of genes that characterizes each genetic system. In the second article we analyzed this model by projecting functional information from several experiments onto the gene network topology. In order to systematize the methods developed in these articles, ViaComplex provides tools that may help potential users to assess different high-throughput experiments in the context of six core genome maintenance mechanisms. This model illustrates how different gene networks can be analyzed by the same algorithm.
+(http://lief.if.ufrgs.br/pub/biosoftwares/viacomplex).

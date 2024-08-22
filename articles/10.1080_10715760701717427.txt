@@ -1,0 +1,11 @@
+Title: Retinol and retinoic acid increase MMP-2 activity by different pathways in cultured Sertoli cells.
+Journal: Free radical research
+Publication Date: 2007-12-14
+Authors:
+  - Rodrigo J S Dalmolin
+  - Alfeu Zanotto-Filho
+  - Ramatis B De Oliveira
+  - Roxane F Duarte
+  - Matheus A B Pasquali
+  - José C F Moreira
+Abstract: Diseases such as atherosclerosis, arthritis and cancer have been related with imbalance in ROS production and failures in regulation of the MMPs. Authors suggested a relationship between MPP activity and ROS. Our research group has demonstrated that retinol 7 microM induced changes in Sertoli cell metabolism linking retinol treatment and oxidative stress. We verified MMP activity in Sertoli cells treated with vitamin A using gelatin zymography. We found that retinol (7 microM) and retinoic acid (1 nM) induced MMP-2 activity in Sertoli cells. Antioxidants reversed retinol-induced but not retinoic acid-induced MMP-2 activity. Moreover, retinol but not retinoic acid increased ROS production quantified by DCFH-DA oxidation. We found that retinol and retinoic acid induced ERK1/2 phosphorylation, but only retinol-increased MMP-2 activity was inhibited by UO126, an ERK1/2 phosphorylation inhibitor. Our findings suggested that retinol-induced MMP-2 activity, but not retinoic acid-induced MMP-2 activity, was related to ERK1/2 phosphorylation and ROS production.

@@ -1,0 +1,13 @@
+Title: Vitamin A treatment induces apoptosis through an oxidant-dependent activation of the mitochondrial pathway.
+Journal: Cell biology international
+Publication Date: 2007-10-19
+Authors:
+  - Fábio Klamt
+  - Felipe Dal-Pizzol
+  - Daniel Pens Gelain
+  - Rodrigo Siqueira Dalmolin
+  - Ramatis Birnfeld de Oliveira
+  - Michele Bastiani
+  - Fabiana Horn
+  - José Cláudio Fonseca Moreira
+Abstract: Even though retinoids are widely used as adjuvant in chemotherapeutic interventions to improve cancer cell death, their mechanism(s) of action involves multiple overlapping pathways that remain unclear. We have previously shown that vitamin A, the natural precursor of the retinoids, induces oxidative-dependent cytochrome c release from isolated mitochondria, suggesting a putative mechanism for apoptosis activation. Using Sertoli cells in culture, we show that retinol causes mitochondrial-dependent apoptosis, involving oxidative stress. Apoptosis was evaluated by nuclear morphology, DNA fragmentation, and caspase-3/7 activity. Retinol induced oxidant- and time-dependent imbalance of several mitochondrial parameters, cytochrome c release and caspase-3/7 activation, leading cells to commit apoptosis. All parameters tested were attenuated or blocked by trolox co-administration, suggesting that retinol induces apoptosis through oxidative damage, which mitochondria plays a pivotal role.

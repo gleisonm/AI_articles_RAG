@@ -1,0 +1,9 @@
+Title: Bridging the Gaps in Meta-Omic Analysis: Workflows and Reproducibility.
+Journal: Omics : a journal of integrative biology
+Publication Date: 2023-11-29
+Authors:
+  - João Vitor Ferreira Cavalcante
+  - Iara Dantas de Souza
+  - Diego Arthur de Azevedo Morais
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: The past few years have seen significant advances in the study of complex microbial communities associated with the evolution of sequencing technologies and increasing adoption of whole genome shotgun sequencing methods over the once more traditional Amplicon-based methods. Although these advances have broadened the horizon of meta-omic analyses in planetary health, human health, and ecology from simple sample composition studies to comprehensive taxonomic and metabolic profiles, there are still significant challenges in processing these data. First, there is a widespread lack of standardization in data processing, including software choices and the ease of installing and running attendant software. This can lead to several inconsistencies, making comparing results across studies and reproducing original results difficult. We argue that these drawbacks are especially evident in metatranscriptomic analysis, with most analyses relying on 

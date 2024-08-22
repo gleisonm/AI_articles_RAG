@@ -1,0 +1,18 @@
+Title: TreeAndLeaf: an R/Bioconductor package for graphs and trees with focus on the leaves.
+Journal: Bioinformatics (Oxford, England)
+Publication Date: 2021-12-06
+Authors:
+  - Milena A Cardoso
+  - Luis E A Rizzardi
+  - Leonardo W Kume
+  - Clarice S Groeneveld
+  - Sheyla Trefflich
+  - Diego A A Morais
+  - Rodrigo J S Dalmolin
+  - Bruce A J Ponder
+  - Kerstin B Meyer
+  - Mauro A A Castro
+Abstract: Dendrogram is a classical diagram for visualizing binary trees. Although efficient to represent hierarchical relations, it provides limited space for displaying information on the leaf elements, especially for large trees.
+Here, we present TreeAndLeaf, an R/Bioconductor package that implements a hybrid layout strategy to represent tree diagrams with focus on the leaves. The TreeAndLeaf package combines force-directed graph and tree layout algorithms using a single visualization system, allowing projection of multiple layers of information onto a graph-tree diagram. The Supplementary Information provides two case studies that use breast cancer data from epidemiological and experimental studies.
+TreeAndLeaf is written in the R language, and is available from the Bioconductor project at http://bioconductor.org/packages/TreeAndLeaf/ (version≥1.4.2).
+Supplementary data are available at Bioinformatics online.

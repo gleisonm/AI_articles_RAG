@@ -1,0 +1,17 @@
+Title: Prediction of long noncoding RNA functions with co-expression network in esophageal squamous cell carcinoma.
+Journal: BMC cancer
+Publication Date: 2015-04-18
+Authors:
+  - Yibin Hao
+  - Wei Wu
+  - Fachun Shi
+  - Rodrigo J S Dalmolin
+  - Ming Yan
+  - Fu Tian
+  - Xiaobing Chen
+  - Guoyong Chen
+  - Wei Cao
+Abstract: Long non-coding RNAs (lncRNAs) are pervasively transcribed in the genome. They have important regulatory functions in chromatin remodeling and gene expression. Dysregulated lncRNAs have been studied in cancers, but their role in esophageal squamous cell carcinoma (ESCC) remains largely unknown. We have conducted lncRNA expression screening and a genome-wide analysis of lncRNA and coding gene expression on primary tumor and adjacent normal tissue from four ESCC patients, tend to understand the functionality of lncRNAs in carcinogenesis of esopheagus in combination with experimental and bioinformatics approach.
+LncRNA array was used for coding and non-coding RNA expression. R program and Bioconductor packages (limma and RedeR) were used for differential expression and co-expression network analysis, followed by independent confirmation and functional studies of inferred onco-lncRNA ESCCAL-1 using quantitative real time polymerase chain reaction, small interfering RNA-mediated knockdown, apoptosis and invasion assays in vitro.
+The global coding and lncRNA gene expression pattern is able to distinguish ESCC from adjacent normal tissue. The co-expression network from differentially expressed coding and lncRNA genes in ESCC was constructed, and the lncRNA function may be inferred from the co-expression network. LncRNA ESCCAL-1 is such an example as a predicted novel onco-lncRNA, and it is overexpressed in 65% of an independent ESCC patient cohort (n = 26). More over, knockdown of ESCCAL-1 expression increases esophageal cancer cell apoptosis and reduces the invasion in vitro.
+Our study uncovered the landscape of ESCC-associated lncRNAs. The systematic analysis of coding and lncRNAs co-expression network increases our understanding of lncRNAs in biological network. ESCCAL-1 is a novel putative onco-lncRNA in esophageal cancer development.

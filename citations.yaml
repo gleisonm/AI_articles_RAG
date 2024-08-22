@@ -1,0 +1,803 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1007/s12031-024-02203-9
+  title: A Prognostic Methylation-Driven Two-Gene Signature in Medulloblastoma
+  authors:
+  - Gustavo Lovatto Michaelsen
+  - "L\xEDvia dos Reis Edinger da Silva"
+  - Douglas Silva de Lima
+  - Mariane da Cunha Jaeger
+  - "Andr\xE9 Tesainer Brunetto"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Marialva Sinigaglia
+  publisher: Journal of Molecular Neuroscience
+  date: '2024-04-25'
+  link: https://doi.org/gtsgkf
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msae019
+  title: '<i>Bridge</i>: A New Algorithm for Rooting Orthologous Genes in Large-Scale
+    Evolutionary Analyses'
+  authors:
+  - Leonardo R S Campos
+  - Sheyla Trefflich
+  - Diego A A Morais
+  - Danilo O Imparato
+  - Vinicius S Chagas
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Rodrigo J S Dalmolin
+  - Mauro A A Castro
+  publisher: Molecular Biology and Evolution
+  date: '2024-02-01'
+  link: https://doi.org/gtgw4v
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/omi.2023.0232
+  title: 'Bridging the Gaps in Meta-Omic Analysis: Workflows and Reproducibility'
+  authors:
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - Iara Dantas de Souza
+  - Diego Arthur de Azevedo Morais
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: 'OMICS: A Journal of Integrative Biology'
+  date: '2023-12-01'
+  link: https://doi.org/gs8q2m
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cam4.6481
+  title: "Revealing metastatic castration\u2010resistant prostate cancer master regulator\
+    \ through <scp>lncRNAs</scp>\u2010centered regulatory network"
+  authors:
+  - Rafaella Sousa Ferraz
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - "Leandro Magalh\xE3es"
+  - "\xC2ndrea Ribeiro\u2010dos\u2010Santos"
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Cancer Medicine
+  date: '2023-08-29'
+  link: https://doi.org/gs8q2n
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/microorganisms11071668
+  title: Metagenomic Analyses Reveal the Influence of Depth Layers on Marine Biodiversity
+    on Tropical and Subtropical Regions
+  authors:
+  - Bianca C. F. Santiago
+  - Iara D. de Souza
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Diego A. A. Morais
+  - Mikaelly B. da Silva
+  - Matheus Augusto de B. Pasquali
+  - Rodrigo J. S. Dalmolin
+  publisher: Microorganisms
+  date: '2023-06-27'
+  link: https://doi.org/gs8q2p
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.18.512769
+  title: Metagenomic analyses reveal the influence of depth layers on marine biodiversity
+    in tropical and subtropical regions
+  authors:
+  - Bianca C. F. Santiago
+  - Iara D. de Souza
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Diego A. A. Morais
+  - Rodrigo J. S. Dalmolin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-18'
+  link: https://doi.org/gs8q2q
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.07.24.501316
+  title: A survey of transcriptomic datasets identifies ABA-responsive factors as
+    regulators of photomorphogenesis in<i>Arabidopsis</i>
+  authors:
+  - "C\xE1ssia Fernanda Stafen"
+  - Iara Souza
+  - Ben Hur de Oliveira
+  - "Lu\xEDsa Abruzzi de Oliveira-Busatto"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - "Oscar Lorenzo S\xE1nchez"
+  - Felipe dos Santos Maraschin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-24'
+  link: https://doi.org/gs8q2r
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2022.814437
+  title: 'MEDUSA: A Pipeline for Sensitive Taxonomic Classification and Flexible Functional
+    Annotation of Metagenomic Shotgun Sequences'
+  authors:
+  - Diego A. A. Morais
+  - "Jo\xE3o V. F. Cavalcante"
+  - "Sh\xEAnia S. Monteiro"
+  - Matheus A. B. Pasquali
+  - Rodrigo J. S. Dalmolin
+  publisher: Frontiers in Genetics
+  date: '2022-03-07'
+  link: https://doi.org/gs8q2s
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btab819
+  title: '<i>TreeAndLeaf</i>: an R/Bioconductor package for graphs and trees with
+    focus on the leaves'
+  authors:
+  - Milena A Cardoso
+  - Luis E A Rizzardi
+  - Leonardo W Kume
+  - Clarice S Groeneveld
+  - Sheyla Trefflich
+  - Diego A A Morais
+  - Rodrigo J S Dalmolin
+  - Bruce A J Ponder
+  - Kerstin B Meyer
+  - Mauro A A Castro
+  publisher: Bioinformatics
+  date: '2021-12-02'
+  link: https://doi.org/gs8q2t
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2021.103610
+  title: The evolution of knowledge on genes associated with human diseases
+  authors:
+  - "Thomaz L\xFCscher-Dias"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Paulo de Paiva Amaral
+  - Tiago Lubiana Alves
+  - Viviane Schuch
+  - "Gl\xF3ria Regina Franco"
+  - Helder I. Nakaya
+  publisher: iScience
+  date: '2022-01-01'
+  link: https://doi.org/grd5f5
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.04.22282902
+  title: SARS-CoV-2 infection induces the production of autoantibodies in severe COVID-19
+    patients in an age-dependent manner
+  authors:
+  - Dennyson Leandro M Fonseca
+  - Igor Salerno Filgueiras
+  - Alexandre HC Marques
+  - Elroy Vojdani
+  - Gilad Halpert
+  - Yuri Ostrinski
+  - Gabriela Crispim Baiocchi
+  - "Desir\xE9e Rodrigues Pla\xE7a"
+  - Paula P. Freire
+  - Shahab Zaki Pour
+  - Guido Moll
+  - Rusan Catar
+  - Yael Bublil Lavi
+  - Jonathan I. Silverberg
+  - Jason Zimmerman
+  - Gustavo Cabral de Miranda
+  - Robson F Carvalho
+  - Taj Ali Khan
+  - Harald Heidecke
+  - Rodrigo JS Dalmolin
+  - Andre Ducati Luchessi
+  - Hans D. Ochs
+  - Lena F. Schimke
+  - Howard Amital
+  - Gabriela Riemekasten
+  - Israel Zyskind
+  - Avi Z Rosenberg
+  - Aristo Vojdani
+  - Yehuda Shoenfeld
+  - Otavio Cabral-Marques
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-05'
+  link: https://doi.org/gs8q2v
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/biomedicines9101297
+  title: Reverse Engineering of the Pediatric Sepsis Regulatory Network and Identification
+    of Master Regulators
+  authors:
+  - Raffael Azevedo de Carvalho Oliveira
+  - Danilo Oliveira Imparato
+  - "V\xEDtor Gabriel Saldanha Fernandes"
+  - "Jo\xE3o Vitor Ferreira Cavalcante"
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Biomedicines
+  date: '2021-09-23'
+  link: https://doi.org/gs8q2w
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10142-021-00794-9
+  title: Ancestry analysis indicates two different sets of essential genes in eukaryotic
+    model species
+  authors:
+  - Iara D. de Souza
+  - Clovis F. Reis
+  - Diego A. A. Morais
+  - "V\xEDtor G. S. Fernandes"
+  - "Jo\xE3o Vitor F. Cavalcante"
+  - Rodrigo J. S. Dalmolin
+  publisher: Functional &amp; Integrative Genomics
+  date: '2021-07-01'
+  link: https://doi.org/gs8q2x
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cancers13081860
+  title: Reverse Engineering of Ewing Sarcoma Regulatory Network Uncovers PAX7 and
+    RUNX3 as Master Regulators Associated with Good Prognosis
+  authors:
+  - "Marcel da C\xE2mara Ribeiro-Dantas"
+  - Danilo Oliveira Oliveira Imparato
+  - Matheus Gibeke Siqueira Dalmolin
+  - Caroline Brunetto de Farias
+  - "Andr\xE9 Tesainer Brunetto"
+  - Mariane da Cunha Jaeger
+  - Rafael Roesler
+  - Marialva Sinigaglia
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Cancers
+  date: '2021-04-13'
+  link: https://doi.org/gs8q2z
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msaa252
+  title: Ionotropic Receptors as a Driving Force behind Human Synapse Establishment
+  authors:
+  - Lucas Henriques Viscardi
+  - Danilo Oliveira Imparato
+  - "Maria C\xE1tira Bortolini"
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Molecular Biology and Evolution
+  date: '2020-09-28'
+  link: https://doi.org/gs8q22
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopha.2020.110277
+  title: Anti-inflammatory and antixidant properties of blend formulated with compounds
+    of Malpighia emarginata D.C (acerola) and Camellia sinensis L. (green tea) in
+    lipopolysaccharide-stimulated RAW 264.7 macrophages
+  authors:
+  - "Nat\xE1lia Cabral Souza"
+  - Eduardo Natan de Oliveira Nascimento
+  - Iara Bezerra de Oliveira
+  - Hugo Miguel Lisboa Oliveira
+  - Eudeson Gustavo Paiva Santos
+  - "M\xE1rio Eduardo Rangel Moreira Cavalcanti Mata"
+  - Daniel Pens Gelain
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Matheus Augusto de Bittencourt Pasquali
+  publisher: Biomedicine &amp; Pharmacotherapy
+  date: '2020-08-01'
+  link: https://doi.org/gsbmkx
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.06.29.178541
+  title: 'CoRINs: A tool to compare residue interaction networks from homologous proteins
+    and conformers'
+  authors:
+  - Felipe V. da Fonseca
+  - "Romildo O. Souza J\xFAnior"
+  - "Mar\xEDlia V. A. de Almeida"
+  - Thiago D. Soares
+  - Diego A. A. Morais
+  - Rodrigo J. S. Dalmolin
+  - "Jo\xE3o Paulo M. S. Lima"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-06-30'
+  link: https://doi.org/gs8q23
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbagrm.2019.194472
+  title: Which came first, the transcriptional regulator or its target genes? An evolutionary
+    perspective into the construction of eukaryotic regulons
+  authors:
+  - Sheyla Trefflich
+  - Rodrigo J.S. Dalmolin
+  - "Jos\xE9 Miguel Ortega"
+  - Mauro A.A. Castro
+  publisher: Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms
+  date: '2020-06-01'
+  link: https://doi.org/gs8q24
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-52299-y
+  title: Analysis of Arabidopsis thaliana Redox Gene Network Indicates Evolutionary
+    Expansion of Class III Peroxidase in Plants
+  authors:
+  - Raffael Azevedo de Carvalho Oliveira
+  - "Abra\xE3o Silveira de Andrade"
+  - Danilo Oliveira Imparato
+  - Juliana Gabriela Silva de Lima
+  - Ricardo Victor Machado de Almeida
+  - "Jo\xE3o Paulo Matos Santos Lima"
+  - Matheus Augusto de Bittencourt Pasquali
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Scientific Reports
+  date: '2019-10-31'
+  link: https://doi.org/gs8q25
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2019.00791
+  title: Systems Biology-Based Analysis Indicates Global Transcriptional Impairment
+    in Lead-Treated Human Neural Progenitor Cells
+  authors:
+  - Clovis F. Reis
+  - Iara D. de Souza
+  - Diego A. A. Morais
+  - Raffael A. C. Oliveira
+  - Danilo O. Imparato
+  - Rita M. C. de Almeida
+  - Rodrigo J. S. Dalmolin
+  publisher: Frontiers in Genetics
+  date: '2019-09-10'
+  link: https://doi.org/gs8q26
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btz007
+  title: "Transcriptogramer: an R/Bioconductor package for transcriptional analysis\
+    \ based on protein\u2013protein interaction"
+  authors:
+  - Diego A A Morais
+  - Rita M C Almeida
+  - Rodrigo J S Dalmolin
+  publisher: Bioinformatics
+  date: '2019-01-08'
+  link: https://doi.org/gs8q27
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10408444.2018.1429387
+  title: Lead-interacting proteins and their implication in lead poisoning
+  authors:
+  - Iara Dantas de Souza
+  - "Abra\xE3o Silveira de Andrade"
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Critical Reviews in Toxicology
+  date: '2018-02-12'
+  link: https://doi.org/gfhwhw
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/jmf.2017.0130
+  title: Sunlight Incidence, Vitamin D Deficiency, and Alzheimer's Disease
+  authors:
+  - "Alice Barros C\xE2mara"
+  - Iara Dantas de Souza
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Journal of Medicinal Food
+  date: '2018-09-01'
+  link: https://doi.org/gc6vwq
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/mutage/gew068
+  title: Analysis of genome instability biomarkers in children with non-syndromic
+    orofacial clefts
+  authors:
+  - "Lu\xEDza Ara\xFAjo da Costa Xavier"
+  - "Jo\xE3o Felipe Bezerra"
+  - Adriana Augusto de Rezende
+  - Raffael Azevedo de Carvalho Oliveira
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Viviane Souza do Amaral
+  publisher: Mutagenesis
+  date: '2017-01-16'
+  link: https://doi.org/gs8q28
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2017/2787308
+  title: "Antioxidant and Anti\u2010Inflammatory Properties of <i>Anacardium occidentale</i>\
+    \ Leaf Extract"
+  authors:
+  - "Nat\xE1lia Cabral Souza"
+  - Juliana Medeiros de Oliveira
+  - "Maur\xEDlio da Silva Morrone"
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Maria do Socorro Medeiros Amarante
+  - Christina da Silva Camillo
+  - Silvana Maria Zucolotto Langassner
+  - Daniel Pens Gelain
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Matheus Augusto de Bittencourt Pasquali
+  publisher: Evidence-Based Complementary and Alternative Medicine
+  date: '2017-01-01'
+  link: https://doi.org/gbvb7n
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12035-014-8998-9
+  title: "Gene Expression Profile of NF-\u03BAB, Nrf2, Glycolytic, and p53 Pathways\
+    \ During the SH-SY5Y Neuronal Differentiation Mediated by Retinoic Acid"
+  authors:
+  - Matheus Augusto de Bittencourt Pasquali
+  - Vitor Miranda de Ramos
+  - "Ricardo D\u2032Oliveira Albanus"
+  - Alice Kunzler
+  - Luis Henrinque Trentin de Souza
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Daniel Pens Gelain
+  - Leila Ribeiro
+  - Luigi Carro
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  publisher: Molecular Neurobiology
+  date: '2014-12-03'
+  link: https://doi.org/gs8q29
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:http://dx.doi.org/10.1016/j.toxlet.2016.06.2026
+  title: Genome instability biomarkers in children with non-syndromic orofacial clefts
+  authors:
+  - V.S. Amaral
+  - L.A. Xavier
+  - J.F. Bezerra
+  - A.A. Rezende
+  - R. Azevedo
+  - R.J. Dalmolin
+  publisher: Toxicology Letters
+  date: '2016-09-01'
+  link: https://doi.org/gs8q3b
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/jmf.2016.0047
+  title: <i>Turnera subulata</i>Anti-Inflammatory Properties in Lipopolysaccharide-Stimulated
+    RAW 264.7 Macrophages
+  authors:
+  - "Nat\xE1lia Cabral Souza"
+  - Juliana Medeiros de Oliveira
+  - "Maur\xEDlio da Silva Morrone"
+  - Ricardo D'Oliveira Albanus
+  - Maria do Socorro Medeiros Amarante
+  - Christina da Silva Camillo
+  - Silvana Maria Zucolotto Langassner
+  - Daniel Pens Gelain
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Matheus Augusto de Bittencourt Pasquali
+  publisher: Journal of Medicinal Food
+  date: '2016-10-01'
+  link: https://doi.org/gs8q3c
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0118425
+  title: 'Correction: Preferential Duplication of Intermodular Hub Genes: An Evolutionary
+    Signature in Eukaryotes Genome Networks'
+  authors:
+  - Ricardo M. Ferreira
+  - "Jos\xE9 Luiz Rybarczyk-Filho"
+  - Rodrigo J. S. Dalmolin
+  - Mauro A. A. Castro
+  - "Jos\xE9 C. F. Moreira"
+  - Leonardo G. Brunnet
+  - Rita M. C. de Almeida
+  publisher: PLOS ONE
+  date: '2015-03-13'
+  link: https://doi.org/gs8q3d
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12885-015-1179-z
+  title: Prediction of long noncoding RNA functions with co-expression network in
+    esophageal squamous cell carcinoma
+  authors:
+  - Yibin Hao
+  - Wei Wu
+  - Fachun Shi
+  - Rodrigo JS Dalmolin
+  - Ming Yan
+  - Fu Tian
+  - Xiaobing Chen
+  - Guoyong Chen
+  - Wei Cao
+  publisher: BMC Cancer
+  date: '2015-03-24'
+  link: https://doi.org/f65hz3
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c3mb70590k
+  title: Computational analyses reveal a prognostic impact of TULP3 as a transcriptional
+    master regulator in pancreatic ductal adenocarcinoma
+  authors:
+  - I. T. S. Sartor
+  - "F. Zeid\xE1n-Chuli\xE1"
+  - R. D. Albanus
+  - R. J. S. Dalmolin
+  - J. C. F. Moreira
+  publisher: Mol. BioSyst.
+  date: '2014-01-01'
+  link: https://doi.org/gs8q3f
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2014/696485
+  title: 'Differential Evolutionary Constraints in the Evolution of Chemoreceptors:
+    A Murine and Human Case Study'
+  authors:
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - "Jos\xE9 Luiz Rybarczyk-Filho"
+  - "Mauro Ant\xF4nio Alves Castro"
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  publisher: The Scientific World Journal
+  date: '2014-01-01'
+  link: https://doi.org/gb536m
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0056579
+  title: 'Preferential Duplication of Intermodular Hub Genes: An Evolutionary Signature
+    in Eukaryotes Genome Networks'
+  authors:
+  - Ricardo M. Ferreira
+  - "Jos\xE9 Luiz Rybarczyk-Filho"
+  - Rodrigo J. S. Dalmolin
+  - Mauro A. A. Castro
+  - "Jos\xE9 C. F. Moreira"
+  - Leonardo G. Brunnet
+  - Rita M. C. de Almeida
+  publisher: PLoS ONE
+  date: '2013-02-26'
+  link: https://doi.org/f4prhv
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0082457
+  title: Reverse Engineering the Neuroblastoma Regulatory Network Uncovers MAX as
+    One of the Master Regulators of Tumor Progression
+  authors:
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Rodrigo Juliani Siqueira Dalmolin
+  - "Mauro Ant\xF4nio Alves Castro"
+  - Matheus Augusto de Bittencourt Pasquali
+  - Vitor de Miranda Ramos
+  - Daniel Pens Gelain
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  publisher: PLoS ONE
+  date: '2013-12-05'
+  link: https://doi.org/gs8q3g
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2741/s352
+  title: Transcriptomic analysis reveals pH-responsive antioxidant gene networks
+  authors:
+  - Rodrigo Juliani Siqueira Dalmolin
+  publisher: Frontiers in Bioscience
+  date: '2012-01-01'
+  link: https://doi.org/f99395
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1745-6150-6-22
+  title: Evolutionary plasticity determination by orthologous groups distribution
+  authors:
+  - Rodrigo JS Dalmolin
+  - Mauro AA Castro
+  - "Jos\xE9 L Rybarczyk Filho"
+  - Luis HT Souza
+  - Rita MC de Almeida
+  - "Jos\xE9 CF Moreira"
+  publisher: Biology Direct
+  date: '2011-01-01'
+  link: https://doi.org/fxcdg4
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bcp.2010.10.014
+  title: "NF\u03BAB inhibitors induce cell death in glioblastomas"
+  authors:
+  - Alfeu Zanotto-Filho
+  - Elizandra Braganhol
+  - "Rafael Schr\xF6der"
+  - "Lu\xEDs Henrique T. de Souza"
+  - Rodrigo J.S. Dalmolin
+  - Matheus A. Bittencourt Pasquali
+  - Daniel Pens Gelain
+  - Ana Maria Oliveira Battastini
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  publisher: Biochemical Pharmacology
+  date: '2011-02-01'
+  link: https://doi.org/ftvgf5
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkq1269
+  title: 'Towards a genome-wide transcriptogram: the Saccharomyces cerevisiae case'
+  authors:
+  - "Jos\xE9 Luiz Rybarczyk-Filho"
+  - Mauro A. A. Castro
+  - Rodrigo J. S. Dalmolin
+  - "Jos\xE9 C. F. Moreira"
+  - Leonardo G. Brunnet
+  - Rita M. C. de Almeida
+  publisher: Nucleic Acids Research
+  date: '2010-12-15'
+  link: https://doi.org/c28bj5
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2741/3541
+  title: A systematic review of human antioxidant genes
+  authors:
+  - Daniel, P. Gelain
+  publisher: Frontiers in Bioscience
+  date: '2009-01-01'
+  link: https://doi.org/ds7x3c
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btp246
+  title: 'ViaComplex: software for landscape analysis of gene expression networks
+    in genomic context'
+  authors:
+  - Mauro A. A. Castro
+  - "Jos\xE9 L. Rybarczyk Filho"
+  - Rodrigo J. S. Dalmolin
+  - Marialva Sinigaglia
+  - "Jos\xE9 C. F. Moreira"
+  - "Jos\xE9 C. M. Mombach"
+  - Rita M. C. de Almeida
+  publisher: Bioinformatics
+  date: '2009-04-15'
+  link: https://doi.org/dd7px3
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkn636
+  title: Evolutionary origins of human apoptosis and genome-stability gene networks
+  authors:
+  - Mauro A. A. Castro
+  - Rodrigo J. S. Dalmolin
+  - "Jos\xE9 C. F. Moreira"
+  - "Jos\xE9 C. M. Mombach"
+  - Rita M. C. de Almeida
+  publisher: Nucleic Acids Research
+  date: '2008-10-02'
+  link: https://doi.org/bcsh3p
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tiv.2008.04.001
+  title: Retinoic acid induces apoptosis by a non-classical mechanism of ERK1/2 activation
+  authors:
+  - Alfeu Zanotto-Filho
+  - Martin Cammarota
+  - Daniel P. Gelain
+  - Ramatis B. Oliveira
+  - "Andres Delgado-Ca\xF1edo"
+  - Rodrigo J.S. Dalmolin
+  - Matheus A.B. Pasquali
+  - "Jos\xE9 Cl\xE1udio F. Moreira"
+  publisher: Toxicology in Vitro
+  date: '2008-08-01'
+  link: https://doi.org/fbgj4v
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cellbi.2007.08.018
+  title: "Vitamin A treatment induces apoptosis through an oxidant\u2010dependent\
+    \ activation of the mitochondrial pathway"
+  authors:
+  - "F\xE1bio Klamt"
+  - "Felipe Dal\u2010Pizzol"
+  - Daniel Pens Gelain
+  - Rodrigo Siqueira Dalmolin
+  - Birnfeld Ramatis de Oliveira
+  - Michele Bastiani
+  - Fabiana Horn
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  publisher: Cell Biology International
+  date: '2008-01-01'
+  link: https://doi.org/fktb8m
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11010-006-9394-1
+  title: Can electrons travel through actin microfilaments and generate oxidative
+    stress in retinol treated Sertoli cell?
+  authors:
+  - Ramatis Birnfeld de Oliveira
+  - Matheus Augusto de Bittencourt Pasquali
+  - Alfeu Zanotto Filho
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Daniel Pens Gelain
+  - Carmem Gottfried
+  - "Jos\xE9 Luiz Rodrigues"
+  - "F\xE1bio Klamt"
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  publisher: Molecular and Cellular Biochemistry
+  date: '2007-01-03'
+  link: https://doi.org/dqz5jr
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10715760701717427
+  title: Retinol and retinoic acid increase MMP-2 activity by different pathways in
+    cultured Sertoli cells
+  authors:
+  - Rodrigo J. S. Dalmolin
+  - Alfeu Zanotto-filho
+  - Ramatis B. De oliveira
+  - Roxane F. Duarte
+  - Matheus A. B. Pasquali
+  - "Jos\xE9 C. F. Moreira"
+  publisher: Free Radical Research
+  date: '2007-01-01'
+  link: https://doi.org/cgbf38
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1383-5718(03)00155-4
+  title: Genotoxicity, recombinogenicity and cellular preneoplasic transformation
+    induced by Vitamin a supplementation
+  authors:
+  - "F\xE1bio Klamt"
+  - Felipe Dal-Pizzol
+  - Rafael Roehrs
+  - Ramatis Birnfeld de Oliveira
+  - Rodrigo Dalmolin
+  - "Jo\xE3o A.P Henriques"
+  - Heloisa Helena Rodrigues de Andrades
+  - "Ana L\u0131\u0301gia Lia de Paula Ramos"
+  - Jenifer Saffi
+  - "Jos\xE9 Cl\xE1udio Fonseca Moreira"
+  publisher: Mutation Research/Genetic Toxicology and Environmental Mutagenesis
+  date: '2003-08-01'
+  link: https://doi.org/ccmrjs
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10715760100301251
+  title: Mitogenic signaling mediated by oxidants in retinol treated sertoli cells
+  authors:
+  - Felipe Dal-Pizzol
+  - "F\xE1bio Klamt"
+  - Rodrigo J.S. Dalmolin
+  - Elena A. Bernard
+  - "Jos\xE9 Cl\xE1udio F. Moreira"
+  publisher: Free Radical Research
+  date: '2001-01-01'
+  link: https://doi.org/d6zxz5
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/omi.2024.0004
+  title: What Powers Trastuzumab's Cardiotoxicity? Decoding Mitochondrial-Related
+    Gene Expression Through Integrative Review and Meta-Analysis in Cardiomyocytes
+  authors:
+  - Karoline dos Santos Rodrigues
+  - Daniel Sturza Lucas Caetano
+  - "Jo\xE3o Vitor Cavalcante"
+  - Rodrigo Dalmolin
+  - "Patr\xEDcia K. Ziegelmann"
+  - Michael Andrades
+  publisher: 'OMICS: A Journal of Integrative Biology'
+  date: '2024-03-01'
+  link: https://doi.org/gtw5m3
+  plugin: sources.py
+  file: sources.yaml

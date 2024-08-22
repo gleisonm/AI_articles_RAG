@@ -1,0 +1,15 @@
+Title: Genotoxicity, recombinogenicity and cellular preneoplasic transformation induced by vitamin A supplementation.
+Journal: Mutation research
+Publication Date: 2003-09-02
+Authors:
+  - Fábio Klamt
+  - Felipe Dal-Pizzol
+  - Rafael Roehrs
+  - Ramatis Birnfeld de Oliveira
+  - Rodrigo Dalmolin
+  - João A P Henriques
+  - Heloisa Helena Rodrigues de Andrades
+  - Ana Lígia Lia de Paula Ramos
+  - Jenifer Saffi
+  - José Cláudio Fonseca Moreira
+Abstract: In spite of being one of the first vitamins to be discovered, the full range of biological activities of Vitamin A remains incomplete. A growing body of evidence has demonstrated an apparent enhancement of carcinogenesis, induced by dietary retinol. Since DNA damage is a well-recognized inducer of carcinogenesis, the aim of this study was to test the possible genotoxic effect of dietary retinol, using different types of bioassays. Retinol caused an increased recombinogenic activity in Drosophila melanogaster larvae as measured by the SMART test. In mammalian cell cultures, retinol supplementation-induced DNA double-strands breaks (DSB) and single-strands breaks (SSB), cell cycle progression and proliferative focus formation in terminal-differentiated rat Sertoli cells and increased DNA fragmentation in Chinese hamster lung fibroblasts (V79 cells), as measured by the comet assay. Altogether, our results suggest that retinol causes DNA damage and chromosomal rearrangements, which may disturbs key physiological processes and lead to cell cycle progression and preneoplasic transformation of terminal-differentiated mammalian cells.

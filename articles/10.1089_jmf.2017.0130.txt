@@ -1,0 +1,8 @@
+Title: Sunlight Incidence, Vitamin D Deficiency, and Alzheimer's Disease.
+Journal: Journal of medicinal food
+Publication Date: 2018-03-23
+Authors:
+  - Alice Barros Câmara
+  - Iara Dantas de Souza
+  - Rodrigo Juliani Siqueira Dalmolin
+Abstract: Vitamin D (VD) deficiency is a growing problem, affecting a significant portion of the population in many countries. VD deficiency may be related to several diseases, including Alzheimer's disease (AD). This study aimed to review the relationship between VD deficiency and AD. We describe the proteins involved in AD pathogenesis and how those proteins can be influenced by VD deficiency. We also investigated a relationship between AD death rate and solar radiation and we found an increased AD death rate in countries with low sunlight. It was also observed that amyloid precursor protein, ryanodine receptor, mammalian target of rapamycin complex 1, and receptor for advanced glycation end products are associated with a worse prognosis in AD. While the Klotho protein, phosphatase and tensin homologue, and VD receptor are associated with a better prognosis in the disease. The literature suggests that decline in VD concentrations may be involved in the establishment and progression of AD. According to sunlight data, we can conclude that countries with low average sunlight have high AD death rate.

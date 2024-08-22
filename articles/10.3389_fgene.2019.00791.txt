@@ -1,0 +1,12 @@
+Title: Systems Biology-Based Analysis Indicates Global Transcriptional Impairment in Lead-Treated Human Neural Progenitor Cells.
+Journal: Frontiers in genetics
+Publication Date: 2019-09-26
+Authors:
+  - Clovis F Reis
+  - Iara D de Souza
+  - Diego A A Morais
+  - Raffael A C Oliveira
+  - Danilo O Imparato
+  - Rita M C de Almeida
+  - Rodrigo J S Dalmolin
+Abstract: Lead poisoning effects are wide and include nervous system impairment, peculiarly during development, leading to neural damage. Lead interaction with calcium and zinc-containing metalloproteins broadly affects cellular metabolism since these proteins are related to intracellular ion balance, activation of signaling transduction cascades, and gene expression regulation. In spite of lead being recognized as a neurotoxin, there are gaps in knowledge about the global effect of lead in modulating the transcription of entire cellular systems in neural cells. In order to investigate the effects of lead poisoning in a systemic perspective, we applied the transcriptogram methodology in an RNA-seq dataset of human embryonic-derived neural progenitor cells (ES-NP cells) treated with 30 µM lead acetate for 26 days. We observed early downregulation of several cellular systems involved with cell differentiation, such as cytoskeleton organization, RNA, and protein biosynthesis. The downregulated cellular systems presented big and tightly connected networks. For long treatment times (12 to 26 days), it was possible to observe a massive impairment in cell transcription profile. Taking the enriched terms together, we observed interference in all layers of gene expression regulation, from chromatin remodeling to vesicle transport. Considering that ES-NP cells are progenitor cells that can originate other neural cell types, our results suggest that lead-induced gene expression disturbance might impair cells' ability to differentiate, therefore influencing ES-NP cells' fate.

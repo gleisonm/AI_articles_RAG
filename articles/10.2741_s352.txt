@@ -1,0 +1,10 @@
+Title: Transcriptomic analysis reveals pH-responsive antioxidant gene networks.
+Journal: Frontiers in bioscience (Scholar edition)
+Publication Date: 2012-06-02
+Authors:
+  - Rodrigo Juliani Siqueira Dalmolin
+  - Daniel Pens Gelain
+  - Fabio Klamt
+  - Mauro Antonio Alves Castro
+  - Jose Claudio Fonseca Moreira
+Abstract: Reactive oxygen species (ROS) are produced in different physiological conditions. In response to ROS imbalance cells activate oxidative stress defenses, which include more than 60 antioxidant genes. It has been suggested that gene products associated with ROS detoxification can work coordinately, acting as an antioxidant-defense network. However, the functional overlap among oxidative stress defenses and other related cell functions makes difficult the characterization of this network. We previously described a network-based model to characterize the interactions existing among different antioxidant gene products and their substrates. Here, we test whether this network-based model of human antioxidant genes can respond to different physiological conditions. We used a systems biology approach applied to the analysis of two independent gene expression datasets: transcriptomes from HeLa cells and primary astrocytes maintained under hypoxic conditions and transcriptomes from SKGT4 cells exposed to low pH environment. We found that the proposed gene network model responds selectively to both hypoxia and acidosis. We anticipate that this antioxidant gene network model can be helpful to describe stress-responsive expression profiles in different cell types.

@@ -1,0 +1,12 @@
+Title: Correction: preferential duplication of intermodular hub genes: an evolutionary signature in eukaryotes genome networks.
+Journal: PloS one
+Publication Date: 2015-03-15
+Authors:
+  - Ricardo M Ferreira
+  - José Luiz Rybarczyk-Filho
+  - Rodrigo J S Dalmolin
+  - Mauro A A Castro
+  - José C F Moreira
+  - Leonardo G Brunnet
+  - Rita M C de Almeida
+Abstract: None
